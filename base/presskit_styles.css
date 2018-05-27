@@ -47,7 +47,7 @@ button {
   
   /* custom  */
   background-image: none;
-  background: black;
+  background: black !important;
   border: none;
   border-radius: 0;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
