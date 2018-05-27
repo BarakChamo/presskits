@@ -45,14 +45,12 @@ button {
   margin-left: 6px;
   cursor: pointer;
   
-  /* custom  */
   background-image: none;
-  background: black !important;
+  background: black;
   border: none;
   border-radius: 0;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
   padding-top: 0;
-  /* /custom *  /
 }
 
 img {
