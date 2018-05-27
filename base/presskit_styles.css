@@ -46,6 +46,7 @@ button {
   cursor: pointer;
   
   /* custom  */
+  background-image: none;
   background: black;
   border: none;
   border-radius: 0;
