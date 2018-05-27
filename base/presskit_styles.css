@@ -1,5 +1,5 @@
 html {
-  background: ALICEBLUE;
+  background: rgb(240, 240, 240);
   color: #222222;
 }
 
@@ -51,6 +51,23 @@ button {
   border-radius: 0;
   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
   padding-top: 0;
+ 
+  will-change: background, color;
+  transition: 0.1s ease-out;
+
+}
+
+button:hover {
+  color: black;
+  background: white;
+  border: 2px solid black;
+  
+  will-change: background, color;
+  transition: 0.1s ease-out;
+}
+
+button:active {
+  border: 2px solid white;
 }
 
 img {
