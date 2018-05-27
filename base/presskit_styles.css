@@ -44,13 +44,6 @@ button {
   height: 28px;
   margin-left: 6px;
   cursor: pointer;
-  
-  background-image: none;
-  background: black;
-  border: none;
-  border-radius: 0;
-  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-  padding-top: 0;
 }
 
 img {
